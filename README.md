@@ -14,7 +14,7 @@ BlueStamp Engineering student portfolio
 
 | Aayan Kar | Waubonsie Valley High School | Aerospace Engineering | 10th Grade |
 
-Milestone 1: Complete First 5 lessons on the GitHub guide
+## **Milestone 1: Complete First 5 lessons on the GitHub guide**
 
 What I Accomplished:
 * ...
@@ -24,7 +24,7 @@ What I Accomplished:
 Challenges & Takeaways:
 ---
 
-Milestone 2: Build the Project
+## **Milestone 2: Build the Project**
 
 What I Accomplished:
 * Built / assembled...
@@ -34,7 +34,7 @@ What I Accomplished:
 Challenges & Takeaways:
 ---
 
-Milestone 3: Creating the Schematic (CAD)
+## **Milestone 3: Creating the Schematic (CAD)**
 
 What I Accomplished:
 * Designed...
