@@ -22,7 +22,7 @@ What I Accomplished:
 * ...
 
 Challenges & Takeaways:
----
+
 
 ## **Milestone 2: Build the Project**
 
@@ -32,7 +32,7 @@ What I Accomplished:
 * Wrote code to...
 
 Challenges & Takeaways:
----
+
 
 ## **Milestone 3: Creating the Schematic (CAD)**
 
