@@ -18,7 +18,7 @@ BlueStamp Engineering student portfolio
 
 What I Accomplished:
 
-For my first milestone, I completed the first five lessons from the Cokoino robotic arm guide. These lessons introduced me to the Arduino Nano, Arduino IDE, Nano Shield, joystick module, servo motors, and buzzer system that will be used throughout the project.
+For this project, I will be building a three-joint robotic arm controlled by an Arduino Nano using servo motors and a joystick input system. For my first milestone, I completed the first five lessons from the Cokoino robotic arm guide. These lessons introduced me to the Arduino Nano, Arduino IDE, Nano Shield, joystick module, servo motors, and buzzer system that will be used throughout the project.
 
 I successfully installed and configured the Arduino IDE, uploaded programs to the Arduino Nano, and learned how code can be transferred from a computer to a microcontroller. I also tested the Nano Shield and verified that all hardware connections were functioning properly.
 
