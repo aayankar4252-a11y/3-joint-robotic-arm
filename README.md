@@ -22,6 +22,9 @@ For this project, I will be building a three-joint robotic arm controlled by an 
 
 I successfully installed and configured the Arduino IDE, uploaded programs to the Arduino Nano, and learned how code can be transferred from a computer to a microcontroller. I also tested the Nano Shield and verified that all hardware connections were functioning properly.
 
+<img width="1512" height="911" alt="Screenshot 2026-06-12 at 1 51 02 PM" src="https://github.com/user-attachments/assets/6f0e85c0-d162-4e5a-9061-42edf887e65e" />
+
+
 Next, I tested the joystick module and observed how analog inputs are converted into numerical values that can be used to control movement. Finally, I programmed and tested the servo motors, learning how PWM signals can precisely control motor position and movement.
 
 Challenges & Takeaways:
