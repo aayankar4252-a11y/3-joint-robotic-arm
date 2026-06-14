@@ -31,6 +31,9 @@ Challenges & Takeaways:
 
 One challenge I had involved the buzzer in Lesson 3. The original code caused the buzzer to continue sounding indefinitely after activation. Rather than leaving the behavior unchanged, I analyzed the code and modified it by implementing a three-second timer that automatically turns the buzzer off.
 
+<img width="1512" height="734" alt="Screenshot 2026-06-14 at 2 26 50 PM" src="https://github.com/user-attachments/assets/f8e1884e-f72e-40f7-888c-8b11e0044497" />
+
+
 This was my first experience making changes beyond the provided instructions. Through this process, I learned how to troubleshoot Arduino programs, understand timing functions, and test modifications until the system behaved as intended.
 
 This milestone gave me a strong foundation in Arduino programming, hardware integration, and engineering problem-solving, which will be essential as I begin assembling and controlling the robotic arm in the next phase of the project.
