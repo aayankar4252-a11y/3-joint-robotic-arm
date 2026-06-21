@@ -47,17 +47,22 @@ The goal of this milestone was to assemble the robotic arm by following Lesson 6
 
 Before beginning assembly, I calibrated each servo motor to a 90-degree position. This ensured that the servos would be properly aligned when installed into the robotic arm and helped prevent positioning errors during future operation.
 
-<img width="2048" height="1536" alt="calibrated servos" src="https://github.com/user-attachments/assets/631ea719-b286-4922-9640-360f25a7a6b6" />
-
+<p align="center">
+  <img alt="calibrated servos" src="https://github.com/user-attachments/assets/631ea719-b286-4922-9640-360f25a7a6b6" width="500">
+</p>
 
 After calibrating the servos, I assembled the robotic arm frame using the acrylic components and hardware provided in the kit. I carefully followed the guide to ensure that each part was installed in the correct orientation.
 
-<img width="1536" height="2048" alt="assembled acrylic frame" src="https://github.com/user-attachments/assets/6b4a1aff-f73b-4650-926e-db7e6f21e7b9" />
+<p align="center">
+  <img alt="assembled acrylic frame" src="https://github.com/user-attachments/assets/6b4a1aff-f73b-4650-926e-db7e6f21e7b9" width="500">
+</p>
 
 
 Once the frame was assembled, I mounted the servo motors into the arm's joints and connected the necessary electronic components. This allowed me to better understand how the mechanical structure and electrical systems work together to create movement.
 
-<img width="2048" height="1536" alt="finished assembly" src="https://github.com/user-attachments/assets/112b4e4c-3f59-407e-8395-f6caf0b60b8c" />
+<p align="center">
+  <img alt="finished assembly" src="https://github.com/user-attachments/assets/112b4e4c-3f59-407e-8395-f6caf0b60b8c" width="500">
+</p>
 
 
 By the end of the milestone, I had successfully assembled the robotic arm and verified that all major components were securely installed and connected.
