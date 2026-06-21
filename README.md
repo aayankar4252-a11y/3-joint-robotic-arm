@@ -38,14 +38,42 @@ This was my first experience making changes beyond the provided instructions. Th
 
 This milestone gave me a strong foundation in Arduino programming, hardware integration, and engineering problem-solving, which will be essential as I begin assembling and controlling the robotic arm in the next phase of the project.
 
+
 ## **Milestone 2: Build the Project**
 
 What I Accomplished:
-* Built / assembled...
-* Wired...
-* Wrote code to...
+
+The goal of this milestone was to assemble the robotic arm by following Lesson 6 of the Cokoino guide. During this phase, I transformed the individual components that I tested in Milestone 1 into a complete robotic system.
+
+Before beginning assembly, I calibrated each servo motor to a 90-degree position. This ensured that the servos would be properly aligned when installed into the robotic arm and helped prevent positioning errors during future operation.
+
+<img width="2048" height="1536" alt="calibrated servos" src="https://github.com/user-attachments/assets/631ea719-b286-4922-9640-360f25a7a6b6" />
+
+
+After calibrating the servos, I assembled the robotic arm frame using the acrylic components and hardware provided in the kit. I carefully followed the guide to ensure that each part was installed in the correct orientation.
+
+<img width="1536" height="2048" alt="assembled acrylic frame" src="https://github.com/user-attachments/assets/6b4a1aff-f73b-4650-926e-db7e6f21e7b9" />
+
+
+Once the frame was assembled, I mounted the servo motors into the arm's joints and connected the necessary electronic components. This allowed me to better understand how the mechanical structure and electrical systems work together to create movement.
+
+<img width="2048" height="1536" alt="finished assembly" src="https://github.com/user-attachments/assets/112b4e4c-3f59-407e-8395-f6caf0b60b8c" />
+
+
+By the end of the milestone, I had successfully assembled the robotic arm and verified that all major components were securely installed and connected.
 
 Challenges & Takeaways:
+
+One challenge during assembly was ensuring that every servo and structural component was installed in the correct position. Since the arm contains multiple moving joints, even a small alignment error could affect performance later when programming movement.
+
+To avoid mistakes, I frequently compared my progress to the guide's reference images and double-checked the orientation of each component before moving on to the next step.
+
+This milestone taught me the importance of precision, patience, and attention to detail when assembling engineering systems. It also gave me a better understanding of how mechanical and electrical components interact within a robotic platform.
+
+
+### Milestone 2 Video
+
+[INSERT VIDEO HERE]
 
 
 ## **Milestone 3: Creating the Schematic (CAD)**
