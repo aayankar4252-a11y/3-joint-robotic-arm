@@ -96,13 +96,13 @@ Studying the schematic helped me visualize how signals and power flow through th
 | Part | Notes | Price | Link |
 |------|------|-------|------|
 | Arduino Nano | Main microcontroller used to run the program | $10 | [Arduino Nano](https://shillehtek.com/products/arduino-nano-v3-0-atmega328p-16mhz-ch340c-type-c?variant=52246904144159&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorXKWhQj8I3Qxv0_pan9y7JW7tQgSzN9K8mGpmOyuQB5X9KTMBzPco&com_cvv=8fb3d522dc163aeadb66e08cd7450cbbdddc64c6cf2e8891f6d48747c6d56d2c) |
-| Nano Shield | Simplifies wiring between components and Arduino | $8 | (add link) |
-| Servo Motors (x4) | Controls movement of robotic arm joints and claw | $3–5 each | (add link) |
-| Joystick Module | Provides user control input for the robotic arm | $5 | (add link) |
-| Acrylic Robotic Arm Kit | Mechanical structure of the robot | $25–40 | (add link) |
-| Jumper Wires | Used for electrical connections between components | $5 | (add link) |
-| USB Cable | Used to upload code to Arduino Nano | $3 | (add link) |
-| 9V Alkaline Battery| Powers the system (USB or external battery) | $5–10 | (add link) |
+| Nano Shield | Simplifies wiring between components and Arduino | $8 | [Nano Shield]((https://uk-m.banggood.com/Multi-Function-Funduino-Nano-Shield-Nano-Sensor-Expansion-Board-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-91852.html)) |
+| Servo Motors (x4) | Controls movement of robotic arm joints and claw | $3–5 each | [Servo Motors](https://andymark.com/products/micro-servo-sg90?variant=44493483868332&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOop7tChkot3zcWA9CmaImRMLH_64i728dMXJGg0aR0aXoZ5CgX_y4OA&com_cvv=8fb3d522dc163aeadb66e08cd7450cbbdddc64c6cf2e8891f6d48747c6d56d2c) |
+| Joystick Module | Provides user control input for the robotic arm | $5 | [Joystick Module](https://www.mouser.com/ProductDetail/SparkFun/COM-09032?qs=WyAARYrbSnb9u7eU4VaEfQ%3D%3D&mgh=1&srsltid=AfmBOooB69YoSCIj-o6Q0uBVCrOg8f4FYRyoVs2FHtc5AQcf_zPsOB820RM) |
+| Acrylic Robotic Arm Kit | Mechanical structure of the robot | $25–40 | [Arm kit](https://www.walmart.com/ip/ZPAQI-Robot-Claw-Kit-Acrylic-for-Arduino-Study-Set-Easy-to-Use-Mechanical-Arm/1350797290?wmlspartner=wlpa&selectedSellerId=101661630) |
+| Jumper Wires | Used for electrical connections between components | $5 | [Wires](https://www.microcenter.com/product/613879/Dupont_Jumper_Wire_20cm_-_3_Pack) |
+| USB Cable | Used to upload code to Arduino Nano | $3 | [USB cable](https://www.cablewholesale.com/products/usb-firewire/usb-2.0-cables/product-10u2-03101bk.php?srsltid=AfmBOorDXswFUQfC9lH_obOL7SdMKPPSuf39GpkAmO86tePymTtS3lTPkXY) |
+| 9V Alkaline Battery| Powers the system (USB or external battery) | $5–10 | [9V Alkaline Battery](https://www.amazon.com/Amazon-Basics-Performance-All-Purpose-Batteries/dp/B0774D64LT/ref=sr_1_5?c=ts&dib=eyJ2IjoiMSJ9.jrVCSONhihG2h1VpU3guB2TAgauTu0L4WS3THT0lt4DhObJteQ8Pu_msdbGnkX4-DvaGEI2taMWMBdRdPqW8XujFcNojVqwqnS9f5EGbzwAhDK_vpnxzLSIsIWQR61uYXYuFJgSa_afKwV2gFZmiRBTpdsTVLND5JnwwNlrwDXdZxJ3bCbq-4kwa2Rcj2ktk__fCgGUHabrwRxa6oOQKBSCysk0GE85-mJ7VPCiE2_NLR9MSVzVUo7FPNezlAuJgshR99AncF8Q9DmA0zjDsNu1Yrxhzp7VJZL1LrlbeXeg.cQiJbOjAXQm2NGrbL7SQMWi0crG-6jv9-AhRFAgpcVA&dib_tag=se&keywords=9V%2BBatteries&qid=1782147937&rdc=1&s=hpc&sr=1-5&ts_id=389576011&th=1) |
 
 ## Final Project Reflection
 
