@@ -95,7 +95,7 @@ Studying the schematic helped me visualize how signals and power flow through th
 
 | Part | Notes | Price | Link |
 |------|------|-------|------|
-| Arduino Nano | Main microcontroller used to run the program | $10 | (add link) |
+| Arduino Nano | Main microcontroller used to run the program | $10 | [Arduino Nano](https://shillehtek.com/products/arduino-nano-v3-0-atmega328p-16mhz-ch340c-type-c?variant=52246904144159&country=US&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&srsltid=AfmBOorXKWhQj8I3Qxv0_pan9y7JW7tQgSzN9K8mGpmOyuQB5X9KTMBzPco&com_cvv=8fb3d522dc163aeadb66e08cd7450cbbdddc64c6cf2e8891f6d48747c6d56d2c) |
 | Nano Shield | Simplifies wiring between components and Arduino | $8 | (add link) |
 | Servo Motors (x4) | Controls movement of robotic arm joints and claw | $3–5 each | (add link) |
 | Joystick Module | Provides user control input for the robotic arm | $5 | (add link) |
