@@ -6,10 +6,9 @@ BlueStamp Engineering student portfolio
 ---
 
 ## Project Description
-. . .
 
+This project is a three-joint robotic arm controlled by an Arduino Nano. The arm uses multiple servo motors to create movement across three joints and a claw for gripping objects. User command is easily provided through a joystick controller, allowing the arm to move in multiple directions and manipulate small objects. Through this project, I am developing skills in electronics, programming, robotics, and mechanical design while exploring my overall interest in aerospace engineering.
 
-| Engineer | School | Area of Interest | Grade |
 
 
 | Aayan Kar | Waubonsie Valley High School | Aerospace Engineering | 10th Grade |
@@ -90,11 +89,12 @@ Studying the schematic helped me visualize how signals and power flow through th
 [INSERT VIDEO HERE]
 
 
-## **Milestone 3: Creating the Schematic (CAD)**
+## Final Project Reflection
 
-What I Accomplished:
-* Designed...
-* Modeled...
-* Finalized...
+Through this project, I gained hands-on experience with Arduino programming, servo motor control, circuit wiring, mechanical assembly, and robotics. One of the most valuable lessons was learning how software and hardware work together to create a functional robotic system.
 
-Challenges & Takeaways:
+I also developed problem-solving skills by troubleshooting issues such as the buzzer continuously sounding and modifying the code so that it automatically stopped after three seconds. This experience showed me that engineering often involves identifying problems, testing solutions, and making improvements beyond the original design.
+
+Reviewing the robotic arm schematic also helped me better understand how the Arduino Nano, Nano Shield, servo motors, and joystick module interact within the system. This gave me a clearer understanding of how signals and power are distributed throughout the robotic arm.
+
+Overall, this project strengthened my interest in robotics and aerospace engineering while providing practical experience with both mechanical and electrical systems. It gave me valuable experience in programming, troubleshooting, assembly, and understanding how multiple engineering disciplines come together to create a working robotic system.
