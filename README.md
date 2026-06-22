@@ -38,7 +38,7 @@ This was my first experience making changes beyond the provided instructions. Th
 This milestone gave me a strong foundation in Arduino programming, hardware integration, and engineering problem-solving, which will be essential as I begin assembling and controlling the robotic arm in the next phase of the project.
 
 
-## **Milestone 2: Build the Project**
+## **Milestone 2 (Final Milestone): Build the Project**
 
 What I Accomplished:
 
