@@ -102,7 +102,7 @@ Studying the schematic helped me visualize how signals and power flow through th
 | Acrylic Robotic Arm Kit | Mechanical structure of the robot | $25–40 | (add link) |
 | Jumper Wires | Used for electrical connections between components | $5 | (add link) |
 | USB Cable | Used to upload code to Arduino Nano | $3 | (add link) |
-| Power Supply | Powers the system (USB or external battery) | $5–10 | (add link) |
+| 9V Alkaline Battery| Powers the system (USB or external battery) | $5–10 | (add link) |
 
 ## Final Project Reflection
 
