@@ -91,6 +91,19 @@ Studying the schematic helped me visualize how signals and power flow through th
 [INSERT VIDEO HERE]
 
 
+## Bill of Materials
+
+| Part | Notes | Price | Link |
+|------|------|-------|------|
+| Arduino Nano | Main microcontroller used to run the program | $10 | (add link) |
+| Nano Shield | Simplifies wiring between components and Arduino | $8 | (add link) |
+| Servo Motors (x4) | Controls movement of robotic arm joints and claw | $3–5 each | (add link) |
+| Joystick Module | Provides user control input for the robotic arm | $5 | (add link) |
+| Acrylic Robotic Arm Kit | Mechanical structure of the robot | $25–40 | (add link) |
+| Jumper Wires | Used for electrical connections between components | $5 | (add link) |
+| USB Cable | Used to upload code to Arduino Nano | $3 | (add link) |
+| Power Supply | Powers the system (USB or external battery) | $5–10 | (add link) |
+
 ## Final Project Reflection
 
 Through this project, I gained hands-on experience with Arduino programming, servo motor control, circuit wiring, mechanical assembly, and robotics. One of the most valuable lessons was learning how software and hardware work together to create a functional robotic system.
