@@ -40,7 +40,8 @@ This milestone gave me a strong foundation in Arduino programming, hardware inte
 
 ### Milestone 1 Video
 
-[INSERT VIDEO HERE]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rx8uqX22Ve4?si=-P2WHc67zuXJRaa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 ## **Milestone 2 (Final Milestone): Build the Project**
