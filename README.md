@@ -75,6 +75,15 @@ To avoid mistakes, I frequently compared my progress to the guide's reference im
 
 This milestone taught me the importance of precision, patience, and attention to detail when assembling engineering systems. It also gave me a better understanding of how mechanical and electrical components interact within a robotic platform.
 
+## System Schematic
+
+As part of this project, I reviewed the robotic arm's schematic to better understand how the electrical components are connected. The schematic illustrates the relationships between the Arduino Nano, Nano Shield, servo motors, joystick module, and other components used throughout the system.
+
+<img width="2000" height="1414" alt="wiring diagram image" src="https://github.com/user-attachments/assets/6760bd73-26ab-4ce6-a2f8-93404ebb2a6d" />
+
+
+Studying the schematic helped me visualize how signals and power flow through the robotic arm. It also gave me a clearer understanding of how the hardware components interact and provided a useful reference for troubleshooting and future modifications.
+
 
 ### Milestone 2 Video
 
