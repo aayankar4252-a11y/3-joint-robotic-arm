@@ -15,7 +15,9 @@ This project is a three-joint robotic arm controlled by an Arduino Nano. The arm
 
 
 
-<img width="1440" height="960" alt="Photo on 6-22-26 at 12 41 PM" src="https://github.com/user-attachments/assets/b3bec14f-04da-4ba7-90b7-dca090a0c6c0" />
+<p align="center">
+  <img alt="Photo on 6-22-26 at 12 41 PM" src="https://github.com/user-attachments/assets/b3bec14f-04da-4ba7-90b7-dca090a0c6c0" width="550" style="height:auto;">
+</p>
 
 
 
