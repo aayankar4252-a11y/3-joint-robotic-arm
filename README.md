@@ -78,7 +78,9 @@ This milestone taught me the importance of precision, patience, and attention to
 
 As part of this project, I reviewed the robotic arm's schematic to better understand how the electrical components are connected. The schematic illustrates the relationships between the Arduino Nano, Nano Shield, servo motors, joystick module, and other components used throughout the system.
 
-<img width="2000" height="1414" alt="wiring diagram image" src="https://github.com/user-attachments/assets/6760bd73-26ab-4ce6-a2f8-93404ebb2a6d" />
+<p align="center">
+  <img alt="wiring diagram image" src="https://github.com/user-attachments/assets/6760bd73-26ab-4ce6-a2f8-93404ebb2a6d" width="550" style="height:auto;">
+</p>
 
 
 Studying the schematic helped me visualize how signals and power flow through the robotic arm. It also gave me a clearer understanding of how the hardware components interact and provided a useful reference for troubleshooting and future modifications.
