@@ -94,8 +94,7 @@ Studying the schematic helped me visualize how signals and power flow through th
 
 ### Milestone 2 Video
 
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/Rx8uqX22Ve4?si=-P2WHc67zuXJRaa0](https://youtu.be/ejYQdZHItFI?si=N6FjHepKSyoCPwlF
-)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ejYQdZHItFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Bill of Materials
