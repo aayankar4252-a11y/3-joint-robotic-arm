@@ -100,7 +100,7 @@ As part of this project, I reviewed the robotic arm's schematic to better unders
 Studying the schematic helped me visualize how signals and power flow through the robotic arm. It also gave me a clearer understanding of how the hardware components interact and provided a useful reference for troubleshooting and future modifications.
 
 
-### Milestone 2 Video
+### Milestone 2 (Final Milestone) Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ejYQdZHItFI?si=r04RXzBc4TRVIYSO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
